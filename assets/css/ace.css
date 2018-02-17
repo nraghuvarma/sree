@@ -19638,7 +19638,7 @@ input.typeahead.scrollable ~ .tt-menu {
   border-color: rgba(255, 255, 255, 0.35);
 }
 .no-skin .sidebar {
-  background-color: #F2F2F2;
+  background-color: #F2F2F2!important;
   border-style: solid;
   border-color: #CCC;
   border-width: 0 1px 0 0;
